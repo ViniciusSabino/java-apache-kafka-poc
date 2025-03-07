@@ -1,2 +1,3 @@
-# java-apache-kafka-poc
+# Java Apache Kafka POC
+
 Exemplo prático do uso do Apache Kafka com Java
